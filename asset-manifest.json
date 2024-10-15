@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.6d6bee20.css",
-    "main.js": "/static/js/main.cafd2da7.js",
+    "main.js": "/static/js/main.14702cb1.js",
     "static/media/PXL_20230421_133212977,PORTRAIT-photoaidcom-cropped.jpg": "/static/media/PXL_20230421_133212977,PORTRAIT-photoaidcom-cropped.e735372350fc2f008bf8.jpg",
     "index.html": "/index.html",
     "main.6d6bee20.css.map": "/static/css/main.6d6bee20.css.map",
-    "main.cafd2da7.js.map": "/static/js/main.cafd2da7.js.map"
+    "main.14702cb1.js.map": "/static/js/main.14702cb1.js.map"
   },
   "entrypoints": [
     "static/css/main.6d6bee20.css",
-    "static/js/main.cafd2da7.js"
+    "static/js/main.14702cb1.js"
   ]
 }
